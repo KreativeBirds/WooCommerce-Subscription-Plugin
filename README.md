@@ -76,7 +76,7 @@ For further assistance, consult the plugin documentation or contact the develope
 ---
 
 ## License
-This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
+This plugin is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
